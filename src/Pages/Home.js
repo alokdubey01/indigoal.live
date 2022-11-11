@@ -10,7 +10,7 @@ export const Home = () => {
     <Navbar/>
     <div className="p-2">
         <h1 className="text-lg font-semibold pl-2 text-second">Featured Match</h1>
-        {/* <Carousel/> */}
+        <Carousel/>
       </div>
     <Featured/>
     <Footer/>
